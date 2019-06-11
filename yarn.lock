@@ -144,7 +144,7 @@
   integrity sha1-lhFepCovE55hnpjtRt9gGblEFLg=
   dependencies:
     "@babel/helper-module-imports" "^7.0.0"
-    "@babel/helper-simple-access" "^7.1.0"
+    "@babel/helper-simple-assets" "^7.1.0"
     "@babel/helper-split-export-declaration" "^7.4.4"
     "@babel/template" "^7.4.4"
     "@babel/types" "^7.4.4"
@@ -192,7 +192,7 @@
 
 "@babel/helper-simple-access@^7.1.0":
   version "7.1.0"
-  resolved "https://registry.npm.taobao.org/@babel/helper-simple-access/download/@babel/helper-simple-access-7.1.0.tgz#65eeb954c8c245beaa4e859da6188f39d71e585c"
+  resolved "https://registry.npm.taobao.org/@babel/helper-simple-assets/download/@babel/helper-simple-assets-7.1.0.tgz#65eeb954c8c245beaa4e859da6188f39d71e585c"
   integrity sha1-Ze65VMjCRb6qToWdphiPOdceWFw=
   dependencies:
     "@babel/template" "^7.1.0"
@@ -474,7 +474,7 @@
   dependencies:
     "@babel/helper-module-transforms" "^7.4.4"
     "@babel/helper-plugin-utils" "^7.0.0"
-    "@babel/helper-simple-access" "^7.1.0"
+    "@babel/helper-simple-assets" "^7.1.0"
 
 "@babel/plugin-transform-object-assign@^7.0.0":
   version "7.2.0"
